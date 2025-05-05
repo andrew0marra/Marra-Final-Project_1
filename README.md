@@ -4,6 +4,7 @@ This is my final for my Social Statistics course, where I analyzed the effects o
 3.1 Data 
 
 This study uses data from the 2022 General Social Survey (GSS), a nationally representative survey that collects information based on social trends, attitudes/beliefs, and demographics within the United States. The GSS uses a random sample of adults aged 18 and older, providing a robust basis for analyzing beliefs about maternal employment. After cleaning the data and removing cases with missing responses on key variables, the final analytic sample includes 206 respondents. This dataset offers rich context for examining how structural and individual factors influence public opinion about maternal work and childcare outcomes. 
+
 3.2 Variables used
 
 The dependent variable in this study is respondents’ agreement with the statement, “Preschool children are likely to suffer if their mother works.” Respondents either agreed (coded as 1) or disagreed/felt neutral (coded as 0). This variable was not recoded, as it fully captured attitudes toward maternal employment. Approximately 48% of respondents agreed with the statement, while 52% disagreed or remained neutral.
